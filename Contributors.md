@@ -22,6 +22,7 @@ studentID - username <br/>
 2311245 - Koki Hori<br/>
 2411317 - CHENG YUANHAU<br/>
 2511176 - Masatoshi Tani - MAAAARCY <br/>
+2511073 - Ryotaro Kanae - naro27<br/>
 2411043 - Motoharu Okuma<br/>
 2511109 - Kojima Hikaru, kozihika<br/>
 2411019 - Hayato Ide<br/>
